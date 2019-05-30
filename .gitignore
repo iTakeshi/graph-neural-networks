@@ -1,5 +1,7 @@
 poetry.lock
 
+gnn/kipf2017_gcn/data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
